@@ -1,0 +1,8 @@
+<html>
+<body>
+<h3>Online Regitration Form</h3>
+<img src="..\durga.jpg" height="400" width="400" align="right">
+
+
+</body>
+</httml>
